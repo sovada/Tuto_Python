@@ -1,2 +1,2 @@
 # Tuto_Python
-Suite de divers tuto réaliser lors de l'apprentissage de Python
+Suite de tuto réalisé lors de l'apprentissage de Python
